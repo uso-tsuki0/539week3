@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-size: 50px;
+    color: red;
+}
+
+h2,h3{
+    font-family: "Gill Sans", sans-serif;
+    color: #0073E6;
+    font-size: 50px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    border: 5px solid #ff9900; /* 5px solid border of your choice of color (in this case, orange) */
+    padding: 10px; /* 10px of padding */
+    margin: 20px; /* 20px of margin */
+    border-top-right-radius: 30px; /* Add a border-top-right-radius of 30px */
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
